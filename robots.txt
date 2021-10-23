@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow:
+Sitemap: richhaffey.com/sitemap.xml
