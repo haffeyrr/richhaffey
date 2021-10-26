@@ -423,7 +423,7 @@ h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: url("../img/rich_haffey.jpeg") top center;
+  background: url("../img/rich_haffey.jpg") top center;
   background-size: cover;
   margin-bottom: -200px;
 }
@@ -711,11 +711,11 @@ section {
   line-height: 24px;
   font-size: 14px;
 }
-.about .video-box {
+/* .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
-  background-size: cover;
+  background-size: contain;
   min-height: 500px;
-}
+} */
 .about .play-btn {
   width: 94px;
   height: 94px;
